@@ -20,6 +20,8 @@ dependencies = [
     "pandas"
 ]
 
+[project.urls]
+Repository = 'https://github.com/laranjodupy/plotting-dataframes'
 
 [tool.setuptools.packages.find]
 where = ["src"]
